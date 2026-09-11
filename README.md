@@ -239,4 +239,4 @@ This repository serves as the official landing page for TeXnicCenter. The softwa
 **Get the most recent version of TeXnicCenter today!**
 
 ---
-**Last updated:** 2026-09-10 22:21:24 UTC
+**Last updated:** 2026-09-11 00:52:41 UTC
